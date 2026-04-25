@@ -6,7 +6,7 @@ A lightweight CLI tool that transforms a folder of images into ready-to-post soc
 
 ## 🎬 Demo
 
-https://github.com/user-attachments/assets/demo.mp4
+https://github.com/34567hg80/_Image-selection_/blob/main/demo.mp4
 
 > Drop your images → Run one command → Get a caption + hashtags instantly.
 
