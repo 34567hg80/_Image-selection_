@@ -1,6 +1,6 @@
 # 🧠 Image Selector + AI Caption Generator (CLI)
 
-A lightweight CLI tool that transforms a folder of images into ready-to-post social media content using AI — **completely free, local, and offline**.
+A lightweight CLI tool that transforms a folder of images into ready-to-post social media content using AI, **completely free, local, and offline**.
 
 ---
 
