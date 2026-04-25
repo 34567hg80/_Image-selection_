@@ -186,4 +186,4 @@ Feel free to open a PR or raise an issue!
 
 If this project helped you, give it a star ⭐
 
-Feedback and ideas are always welcome — drop them in the Issues tab.
+Feedback and ideas are always welcome, drop them in the Issues tab.
