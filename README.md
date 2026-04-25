@@ -44,6 +44,8 @@ project-root/
 ├── output.txt
 ├── images/
 │   └── .gitkeep
+├── selected_image/
+│   └── .gitkeep
 └── ai/
     ├── caption.py
     └── scoring.py
