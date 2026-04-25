@@ -55,11 +55,6 @@ project-root/
 
 ### 1. Clone the repo
 
-```bash
-git clone <your-repo-url>
-cd <repo>
-```
-
 ### 2. Create a virtual environment
 
 ```bash
